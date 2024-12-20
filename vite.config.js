@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vite-deploy-sample/', // put your github repository name
+  base: '/christmas-project/', // put your github repository name
   plugins: [vue()],
   resolve: {
     alias: {
